@@ -3,7 +3,6 @@ A typical employee works 40 (normal) and 20(OT) hours per week has to pay 10% ta
  Develop a functional program that determines the take home salary of an employee from the number of working hours and OT hours given.
 }*/
 
-
 object Assignment2 extends App {
 
   def normalSalary(hours :Int) = hours*150
