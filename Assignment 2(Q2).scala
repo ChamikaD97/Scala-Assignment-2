@@ -8,7 +8,6 @@ The owner would like to know the exact relationship between profit and ticket pr
 Implement a functional program to find out the best ticket price.
 
 
-
 }*/
 
 object Assignment2 extends App {
