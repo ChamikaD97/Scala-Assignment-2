@@ -6,7 +6,6 @@ Decreasing the price by  5 Rupees increases attendance by 20 and increasing the 
 Unfortunately, the increased attendance also comes at an increased cost. Every performance costs the owner Rs.500. Each attendee costs another 3 Rupees. 
 The owner would like to know the exact relationship between profit and ticket price so that he can determine the price at which he can make the highest profit. 
 Implement a functional program to find out the best ticket price.
-
 }*/
 
 object Assignment2 extends App {
