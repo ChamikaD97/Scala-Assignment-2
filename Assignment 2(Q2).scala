@@ -7,7 +7,6 @@ Unfortunately, the increased attendance also comes at an increased cost. Every p
 The owner would like to know the exact relationship between profit and ticket price so that he can determine the price at which he can make the highest profit. 
 Implement a functional program to find out the best ticket price.
 
-
 }*/
 
 object Assignment2 extends App {
